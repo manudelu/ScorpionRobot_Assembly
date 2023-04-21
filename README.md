@@ -6,6 +6,7 @@ Design of Clementoni's Scorpion Robot using Creo Parametric 3D Modeling Software
 Project Description
 ----------------------
 At the beginning of the course, several pieces of a toy scorpion robot were assigned to each team. [Link to the Assembly Video](https://www.youtube.com/watch?v=SFq4Ctjfaao)
+
 Then each team must:
 - `Step1`: Take measurements of their parts, by means of a caliper, which will later be needed to be able to model the parts on [Creo Parametric 8.0](https://www.ptc.com/en/products/creo/parametric) 
 - `Step2`: Start the design of each assigned part
