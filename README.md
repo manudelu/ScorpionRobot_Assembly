@@ -12,7 +12,7 @@ Then, each team must:
 - `Step2`: Start the design of each assigned part.
 - `Step3`: Begin assembling the robot: Each team will need to make their parts available so that the other teams can work individually on assembling the scorpion robot. Communication between teams is needed so that any measurement or design errors made in the previous steps can be adjusted.
 
-Team Members:
+Team Members
 -------------
 
 |    |Name |Surname |
