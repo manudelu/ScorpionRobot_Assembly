@@ -26,6 +26,8 @@ Team Members
 Video of the Simulation
 -----------------------
 
-https://github.com/manudelu/ScorpionRobot_Assembly/assets/97695681/54efb8ef-76ac-4d11-9cb9-879c15268faf
+https://github.com/manudelu/ScorpionRobot_Assembly/assets/97695681/5424e624-925b-4e14-a914-0c79ad8d4f1c
+
+
 
 
