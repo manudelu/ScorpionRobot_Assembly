@@ -23,3 +23,9 @@ Team Members
 | 2 | Matteo | Cappellini |
 | 3 | Jack | McKenna |
 
+Video of the Simulation
+-----------------------
+
+https://github.com/manudelu/ScorpionRobot_Assembly/assets/97695681/54efb8ef-76ac-4d11-9cb9-879c15268faf
+
+
