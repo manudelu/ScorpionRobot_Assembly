@@ -3,7 +3,7 @@ Mechanical Design Methods in Robotics
 Design of Clementoni's Scorpion Robot using Creo Parametric 3D Modeling Software Ver. 8.0
 ==========================================================================================
 
-Project Description
+Project Description :scorpion:
 ----------------------
 At the beginning of the course, several pieces of a toy scorpion robot were assigned to each team. [Link to the Assembly Video](https://www.youtube.com/watch?v=SFq4Ctjfaao)
 
